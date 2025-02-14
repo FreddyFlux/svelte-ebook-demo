@@ -19,5 +19,5 @@
     If you’d like to try again, please click the button below to return to the
     checkout page.
   </p>
-  <Button>Try again</Button>
+  <Button>Try agains</Button>
 </HeroSection>
